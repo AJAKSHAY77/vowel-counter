@@ -1,0 +1,48 @@
+body{
+    background-color: darkslategrey;
+}
+.boxshadow{
+    height: 350px;
+    width: 500px;
+    margin-left: 35%;
+    margin-top: 10%;
+    text-align: center;
+    background-color: lightcyan;
+    border: 3px solid black;
+    padding-top: 10%;
+    box-shadow: 0 0 10px lightgoldenrodyellow;
+    font-size: 25px;
+   
+
+}
+#firstbutton{
+    background-color: green;
+    border-radius: 12px;
+    border: 2px solid black;
+    padding: 10px 12px;
+    width: fit-content;
+    color: white;
+    font-weight: bold;
+
+}
+#aj{
+    background-color: white;
+    border-radius: 12px;
+    border: 2px solid black;
+    padding: 10px 12px;
+    width: fit-content;
+    color: black;
+    font-weight: bold;
+}
+ .btn{
+    margin-top: 10%;
+ }
+ input{
+    font-size: 25px;
+    border-radius: 12px;
+    border:  5px solid darkslategrey;
+ }
+
+
+
+
